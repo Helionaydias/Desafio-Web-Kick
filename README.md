@@ -1,4 +1,4 @@
-# Desafio-Web-Kick
+# Plataforma-de-estudo-Web-Kick
 
 ![Paletas de cores](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/85279bfc-2678-4728-8217-180b8f41efb7)
 ![Tipografia](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/8a2acec9-af49-4be8-b84a-5592fcbc9222)
