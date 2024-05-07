@@ -6,10 +6,10 @@
 ![Ícones](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/779e83c6-99a1-46ae-b034-5704669fc080)
 
 ![Login](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/57067050-917a-46c2-a764-7a23d68762f3)
-![Tecnologia](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/e972d9dd-d347-458a-b5ff-14fd07aff194)
+![Tecnologia](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/053b203e-6fb0-4145-9017-388815133afe)
 ![Conteudo-Tecnologia](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/60c32e18-ea83-4546-8345-66e135cb620d)
 ![Video-Tecnologia](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/91605b2b-09a4-4e54-8736-bd5f75edcd36)
-![Socoemocional](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/66070827-048a-4395-9833-d600772de0d6)
+![Socoemocional](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/f6699000-62a0-47f4-a233-a37c93c7e071)
 ![Conteudo-Socioemocional](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/e3eacf61-ae19-469d-b731-858545508219)
 ![Video-Socioemocional](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/5f7e7652-93bd-44a0-8d78-37f993804490)
 ![Calendario](https://github.com/Helionaydias/Desafio-Web-Kick/assets/101341807/9b1b9965-473c-4fa2-a4b0-c08eaa939b7c)
